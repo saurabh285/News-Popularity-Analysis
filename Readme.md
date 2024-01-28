@@ -1,4 +1,4 @@
-# CS 5344 Big Data Project NUS - Group 14
+# CS 5344 Big Data Project NUS
 
 ## Topic: News Popularity Analysis across Various Social Media Platforms
 
