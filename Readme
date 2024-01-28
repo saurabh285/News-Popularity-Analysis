@@ -1,17 +1,18 @@
-*** CS 5344 Big Data Project NUS  --- Group 14****
-################################## Topic #######################################################
-News Popularity Analysis across different Social Media Platforms
-################################## Abstract #####################################################
-The objective of this project is to analyze and derive deeper insights into the popularity of topics across the different social media platforms.
-The primary approaches, including sentiment lexicon, clustering,word frequency analysis and bias news detection, were used to complete the analysis. 
-For this analysis, 90k news items from various news sources were included in the dataset. 
-In order to provide a better understanding, various visualisations of the popularity of news across various topics and social media platforms were carried out. Having such insights would be helpful for individuals and companies in planning their social media strategy.
-################################## Methodologies ####################################################
-     1. Sentiment Lexicon
-     2. Clustering
-     3. Frequent Word generation
-################################## Results and Analysis ###############################################
-     1. Comparision of Sentiment Score
-     2. Clustering results
-     3. Different Visualisation Techniques for popularity analysis
-     4. Bias Detection
+# CS 5344 Big Data Project NUS - Group 14
+
+## Topic: News Popularity Analysis across Various Social Media Platforms
+
+### Abstract
+This project aims to delve into the popularity of news topics across diverse social media platforms, employing key methodologies such as sentiment lexicon, clustering, word frequency analysis, and bias news detection. The dataset comprises 90,000 news items sourced from various news outlets. The analysis includes visualizations illustrating the popularity of news across different topics and social media platforms, providing valuable insights for individuals and companies to enhance their social media strategies.
+
+### Methodologies
+1. Sentiment Lexicon
+2. Clustering
+3. Frequent Word Generation
+
+### Results and Analysis
+1. Comparison of Sentiment Scores
+2. Clustering Results
+3. Various Visualization Techniques for Popularity Analysis
+4. Bias Detection
+
